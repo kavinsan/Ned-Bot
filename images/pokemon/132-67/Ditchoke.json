@@ -1,0 +1,13 @@
+{
+    "pokemon": 
+    [
+	{
+	    "url": "http://pokemon.alexonsager.net/132/67",
+	    "img": "http://images.alexonsager.net/pokemon/fused/67/67.132.png",
+	    "id": "132.67",
+	    "name": "Ditchoke",
+	    "pokemon1": "Ditto",
+	    "pokemon2": "Machoke"
+	}
+    ]
+}

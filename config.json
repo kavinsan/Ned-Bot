@@ -1,0 +1,16 @@
+{
+    "bots": [
+        {
+            "name:": "ned",
+            "key": "",
+            "description": "This is a server managing bot"
+        }
+    ],
+    "fortnite": {
+        "key": "",
+        "url": "https://fortnitetracker.com"
+    },
+    "pokemon-fusion": {
+        "url": "https://pokemon.alexonsager.net/"
+    }
+}
